@@ -1,3 +1,2 @@
 # Web Scraper La Jornada
- A web scraper for the news website https://www.jornada.com.mx/ 
-run scrapper.py to get all the articles for today in files.
+ A web scraper for the news website https://www.jornada.com.mx/ based in the final project for the online course "Curso de Fundamentos de Web Scraping con Python y Xpath" by Platzi.
