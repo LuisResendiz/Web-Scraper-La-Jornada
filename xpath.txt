@@ -1,0 +1,4 @@
+Links= //h2[@class="title-default"]/a/@href
+Titulo= //h2[@class="title title-default"]/text()
+Resumen= //*[@id="content_nitf"]/p[1]/text()
+Contenido= //*[@id="content_nitf"]/p[not(@class)]/text()
